@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/branch-end.png</file>
+        <file>icons/branch-more.png</file>
+        <file>icons/close.png</file>
+        <file>icons/config.png</file>
+        <file>icons/check.png</file>
+    </qresource>
+</RCC>
